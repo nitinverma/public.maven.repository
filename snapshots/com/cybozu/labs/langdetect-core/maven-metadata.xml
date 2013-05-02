@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.cybozu.labs</groupId>
+  <artifactId>langdetect-core</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130502131655</lastUpdated>
+  </versioning>
+</metadata>
