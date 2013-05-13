@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>cc.mallet</groupId>
+  <artifactId>superpom</artifactId>
+  <versioning>
+    <versions>
+      <version>2.0.7-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130513231816</lastUpdated>
+  </versioning>
+</metadata>
