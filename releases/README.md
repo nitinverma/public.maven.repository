@@ -19,7 +19,7 @@ Maven dependencies:
 
     <properties>
         <com.cybozu.labs.version>0.1.0</com.cybozu.labs.version>
-        <edu.jwetherell.version>0.1.0</edu.jwetherell.version>
+        <edu.jwetherell.version>0.2.0</edu.jwetherell.version>
     </properties>
 
     <dependency>
