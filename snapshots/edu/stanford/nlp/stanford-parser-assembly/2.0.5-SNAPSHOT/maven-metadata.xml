@@ -5,21 +5,21 @@
   <version>2.0.5-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20130619.112321</timestamp>
-      <buildNumber>1</buildNumber>
+      <timestamp>20130723.102226</timestamp>
+      <buildNumber>3</buildNumber>
     </snapshot>
-    <lastUpdated>20130619112321</lastUpdated>
+    <lastUpdated>20130723102226</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>2.0.5-20130619.112321-1</value>
-        <updated>20130619112321</updated>
+        <value>2.0.5-20130723.102226-3</value>
+        <updated>20130723102226</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>pkg</classifier>
         <extension>tar</extension>
-        <value>2.0.5-20130619.112321-1</value>
-        <updated>20130619112321</updated>
+        <value>2.0.5-20130723.102226-3</value>
+        <updated>20130723102226</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
