@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven Python Distribute Plugin</name>
+      <prefix>distribute</prefix>
+      <artifactId>maven-python-distribute-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven Python BDD Plugin</name>
+      <prefix>bdd</prefix>
+      <artifactId>maven-bdd-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
